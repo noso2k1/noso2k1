@@ -1,2 +1,2 @@
 # noso2k1
-New repository - Test
+Un repository inutile che ruba spazio sull'interweb che poteva essere usato meglio
